@@ -29,7 +29,7 @@ namespace FindHouse
             }
             else
             {
-
+                Navigation.PushAsync(new HomePage());
             }
                 
         }

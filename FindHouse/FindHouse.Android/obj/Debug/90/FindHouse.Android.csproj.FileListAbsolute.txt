@@ -495,3 +495,4 @@ H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\9
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\bin\Debug\FindHouse.dll.mdb
