@@ -11,6 +11,7 @@ H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\9
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Runtime.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Xml.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\Validation.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
@@ -67,3 +68,10 @@ H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\9
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Web.Services.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\Mono.Security.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Resources.ResourceManager.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Diagnostics.Tools.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Globalization.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Reflection.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Linq.dll

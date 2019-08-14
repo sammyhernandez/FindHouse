@@ -13,25 +13,43 @@ namespace FindHouse
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
+
         public MainPage()
         {
+            
             InitializeComponent();
+            
         }
 
+    
         public void LoginButton_Cliked(object sender, EventArgs e)
         {
             bool isEmailEmpty = string.IsNullOrEmpty(Email.Text);
             bool isPasswordEmpty = string.IsNullOrEmpty(Password.Text);
+            string EmailText = Email.Text;
+            string PasswordText = Password.Text;
 
             if (isEmailEmpty || isPasswordEmpty)
             {
-
+                DisplayAlert("Alert", "Email o Contraseña incorrectos", "OK");
             }
             else
             {
                 Navigation.PushAsync(new HomePage());
+                Email.Text = string.Empty;
+                Password.Text =  string.Empty;
             }
                 
+        }
+
+        public void RecoverButton_Cliked(object sender, EventArgs e)
+        {
+
+        }
+
+        public void RegisterButton_Cliked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new RegisterPage());
         }
     }
 }

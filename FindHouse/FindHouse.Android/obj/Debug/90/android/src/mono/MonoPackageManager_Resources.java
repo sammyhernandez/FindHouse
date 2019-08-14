@@ -5,6 +5,7 @@ public class MonoPackageManager_Resources {
 		"FindHouse.Android.dll",
 		"FindHouse.dll",
 		"FormsViewGroup.dll",
+		"Validation.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

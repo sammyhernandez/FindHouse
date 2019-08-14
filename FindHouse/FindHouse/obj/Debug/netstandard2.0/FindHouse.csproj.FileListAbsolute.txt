@@ -2,12 +2,14 @@ H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\bin\Debug\netstanda
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\bin\Debug\netstandard2.0\FindHouse.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\bin\Debug\netstandard2.0\FindHouse.pdb
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\App.xaml.g.cs
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\FindHouse.csproj.CoreCompileInputs.cache
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\FindHouse.AssemblyInfoInputs.cache
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\FindHouse.AssemblyInfo.cs
-H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\XamlC.stamp
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\FindHouse.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\FindHouse.pdb
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\XamlC.stamp
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\FindHouse.csprojAssemblyReference.cache
-H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\BusquedaPage.xaml.g.cs

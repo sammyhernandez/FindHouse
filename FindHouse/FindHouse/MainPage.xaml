@@ -4,12 +4,24 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="FindHouse.MainPage">
+             x:Class="FindHouse.MainPage" Title="Iniciar Sesión" >
+    <ContentPage.Content>
+        
+        <ScrollView>
+        <StackLayout Padding="40">
+            <Frame Padding="0">
+                <Image Source="officebuildingicon.png" HorizontalOptions="Center" VerticalOptions="Center"/>
+            </Frame>
 
-    <StackLayout VerticalOptions="Center" Margin="20">
-        <Entry x:Name="Email" Placeholder="Correo Electrónico" Keyboard="Email"/>
-        <Entry x:Name="Password" Placeholder="Contraseña" IsPassword="True"/>
-        <Button x:Name=" Entrar" Margin="0,50,0,0" Text="Log in" Clicked="LoginButton_Cliked" BackgroundColor="DodgerBlue" TextColor="White"/>
-    </StackLayout>
+                    <StackLayout VerticalOptions="Center" Margin="20">
+                        <Entry x:Name="Email" Placeholder="Correo Electrónico" Keyboard="Email"/>
+                        <Entry x:Name="Password"  Placeholder="Contraseña" IsPassword="True"/>
+                        <Button x:Name=" Entrar" Margin="0,40,0,0" Text="Entrar" Clicked="LoginButton_Cliked" BackgroundColor="DodgerBlue" TextColor="White"/>
+                        <Button x:Name="RecuperarContrasenia" Margin="0,40,0,0" Text="Recuperar o Cambiar Contraseña" Clicked="RecoverButton_Cliked" BackgroundColor="#416A66" TextColor="White"/>
+                    <Button x:Name="Registrarse"  ContentLayout="Left" Image="Register.png"   Margin="0,10,0,0" Text="Registrarse" Clicked="RegisterButton_Cliked" BackgroundColor="Green"  TextColor="White"/> 
+                    </StackLayout>
 
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
 </ContentPage>

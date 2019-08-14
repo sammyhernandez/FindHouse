@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FindHouse.RegisterPage" Title="Registrar Usuario">
+    <ContentPage.Content>
+
+        <StackLayout>
+            <Frame Padding="0">
+                <Image Source="NuevoUsuariopng.png" HorizontalOptions="Center" VerticalOptions="Center"/>
+            </Frame>
+
+            <StackLayout VerticalOptions="Center" Padding="40">
+                <Entry x:Name="FirstName" Placeholder="Nombre"/>
+            <Entry x:Name="LastName" Placeholder="Apellido"/>
+            <Entry x:Name="Email" Placeholder="Correo Electrónico"/>
+            <Entry x:Name="Password" Placeholder="Contraseña"/>
+            <Button x:Name="Registrarse"  ContentLayout="Left" Margin="0,10,0,0" Text="Registrarse" Clicked="RegisterButton_Cliked" BackgroundColor="Green"  TextColor="White"/>
+
+        </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

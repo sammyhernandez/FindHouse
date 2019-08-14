@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "c2ea495c1dc4b9e5898d3a25cde4fe7c0fc88ebe"
+    "signature": "e81ec9052bffcb10f6ff0003184120abdf5cf13c"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,6 +10,7 @@
       "FindHouse/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
+          "Validation": "2.4.22",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.1.0.555618"
         },
@@ -28,6 +29,14 @@
           "lib/netstandard2.0/System.Numerics.Vectors.dll": {
             "assemblyVersion": "4.1.4.0",
             "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "Validation/2.4.22": {
+        "runtime": {
+          "lib/netstandard1.3/Validation.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.22.9105"
           }
         }
       },
@@ -86,6 +95,13 @@
       "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
       "path": "system.numerics.vectors/4.5.0",
       "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "Validation/2.4.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0YMmKpM/5LwNMbKQCsz5caEdLD2q5vNX64LTskzd5gG9P5VgmyT1T56GD3T8+9/GPxR+vbzdz2HjyvA3x5F3Yg==",
+      "path": "validation/2.4.22",
+      "hashPath": "validation.2.4.22.nupkg.sha512"
     },
     "Xamarin.Essentials/1.1.0": {
       "type": "package",
