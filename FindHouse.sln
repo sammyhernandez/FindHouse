@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindHouse.Android", "FindHo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindHouse.iOS", "FindHouse\FindHouse.iOS\FindHouse.iOS.csproj", "{44ADFC6F-2D0C-4C16-B9D7-252380318256}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindHouse", "FindHouse\FindHouse\FindHouse.csproj", "{4E9214AD-1603-4328-9985-F8DB2ACC35E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindHouse", "FindHouse\FindHouse\FindHouse.csproj", "{4E9214AD-1603-4328-9985-F8DB2ACC35E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -29,6 +29,8 @@ namespace FindHouse
             string EmailText = Email.Text;
             string PasswordText = Password.Text;
 
+           
+
             if (isEmailEmpty || isPasswordEmpty)
             {
                 DisplayAlert("Alert", "Email o Contraseña incorrectos", "OK");

@@ -58,3 +58,8 @@ H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\obj\iPhoneSimul
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\obj\iPhoneSimulator\Debug\FindHouse.iOS.csproj.CopyComplete
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\obj\iPhoneSimulator\Debug\FindHouse.iOS.exe
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\obj\iPhoneSimulator\Debug\FindHouse.iOS.pdb
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll

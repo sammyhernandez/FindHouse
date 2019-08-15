@@ -9,5 +9,6 @@
              x:Class="FindHouse.HomePage">
 
     <local:Busqueda Title="Busqueda"/>
+    <local:HistoryPage Title="Historial de Registro"/>
 
 </TabbedPage>
