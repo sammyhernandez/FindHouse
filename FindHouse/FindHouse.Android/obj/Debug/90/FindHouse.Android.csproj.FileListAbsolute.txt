@@ -538,3 +538,4 @@ H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\9
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Threading.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\bin\Debug\FindHouse.dll.mdb

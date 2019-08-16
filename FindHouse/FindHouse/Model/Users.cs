@@ -19,6 +19,8 @@ namespace FindHouse.Model
         public string Email { get; set; }
         [MaxLength(30)]
         public string Password { get; set; }
+        [MaxLength(30)]
+        public string PasswordConfirm { get; set; }
 
-   }
+    }
 }

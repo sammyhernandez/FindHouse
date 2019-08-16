@@ -13,10 +13,11 @@
             </Frame>
 
             <StackLayout VerticalOptions="Center" Padding="40">
-                <Entry x:Name="FirstName" Placeholder="Nombre"/>
+            <Entry x:Name="FirstName" Placeholder="Nombre"/>
             <Entry x:Name="LastName" Placeholder="Apellido"/>
             <Entry x:Name="Email" Placeholder="Correo Electrónico"/>
-            <Entry x:Name="Password" Placeholder="Contraseña"/>
+            <Entry x:Name="Password" Placeholder="Contraseña"  IsPassword="True"/>
+            <Entry x:Name="PasswordConfirm" Placeholder="Confirmar Contraseña"  IsPassword="True"/>
             <Button x:Name="Registrarse"  ContentLayout="Left" Margin="0,10,0,0" Text="Registrarse" Clicked="RegisterButton_Cliked" BackgroundColor="Green"  TextColor="White"/>
 
         </StackLayout>

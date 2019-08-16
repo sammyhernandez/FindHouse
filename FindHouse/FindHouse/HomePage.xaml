@@ -10,5 +10,8 @@
 
     <local:Busqueda Title="Busqueda"/>
     <local:HistoryPage Title="Historial de Registro"/>
+    <local:Busqueda Title="Busqueda"/>
+    <local:Busqueda Title="Busqueda"/>
+
 
 </TabbedPage>

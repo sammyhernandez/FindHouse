@@ -31,5 +31,16 @@ namespace FindHouse
             }
             
         }
+
+        void Handle_selected(object sender, Xamarin.Forms.SelectedItemChangedEventArgs e)
+        {
+            if (UsersListView.SelectedItem is Users selectedUsers)
+            {
+                Navigation.PushAsync(new UsersDetailPage(selectedUsers));
+            }
+
+        }
+
+       
     }
 }
