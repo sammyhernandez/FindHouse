@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FindHouse.Model;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -22,8 +23,10 @@ namespace FindHouse
         }
 
     
-        public void LoginButton_Cliked(object sender, EventArgs e)
+        public async void LoginButton_Cliked(object sender, EventArgs e)
         {
+           
+
             bool isEmailEmpty = string.IsNullOrEmpty(Email.Text);
             bool isPasswordEmpty = string.IsNullOrEmpty(Password.Text);
             string EmailText = Email.Text;
@@ -33,13 +36,31 @@ namespace FindHouse
 
             if (isEmailEmpty || isPasswordEmpty)
             {
-                DisplayAlert("Alert", "Email o Contraseña incorrectos", "OK");
+                await DisplayAlert("Error", "Todos los campos son obligatorios.", " Ok");
             }
             else
             {
-                Navigation.PushAsync(new HomePage());
-                Email.Text = string.Empty;
-                Password.Text =  string.Empty;
+                var user = (await App.mobileServer.GetTable<Users>().Where(u => u.Email == Email.Text).ToListAsync()).FirstOrDefault();
+
+                if (user != null)
+                {
+                    if (user.Password == Password.Text)
+                    {
+                        await Navigation.PushAsync(new HomePage());
+                        Email.Text = null;
+                        Password.Text = null;
+                    }
+                    else
+                    {
+                        await DisplayAlert("Error", "Correo Electrónico / Contraseña incorrectos", " Ok");
+                    }
+                }
+                else
+                {
+                    await DisplayAlert("Error", "Usuario Invalido...", " Ok");
+                }
+                
+                
             }
                 
         }

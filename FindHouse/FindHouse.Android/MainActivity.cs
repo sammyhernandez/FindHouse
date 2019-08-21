@@ -7,6 +7,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 using System.IO;
+using Microsoft.WindowsAzure.MobileServices;
 
 namespace FindHouse.Droid
 {
@@ -22,6 +23,7 @@ namespace FindHouse.Droid
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+            CurrentPlatform.Init();
 
             string dbName = "FindHouse_db.sqlite";
             string folderpath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);

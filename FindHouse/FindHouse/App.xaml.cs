@@ -1,12 +1,15 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Microsoft.WindowsAzure.MobileServices;
 
 namespace FindHouse
 {
     public partial class App : Application
     {
         public static string DatabaseLocation = string.Empty;
+        public static MobileServiceClient mobileServer = new MobileServiceClient("https://apartamento.azurewebsites.net");
+
         public App()
         {
             InitializeComponent();

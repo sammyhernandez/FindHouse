@@ -1,4 +1,3 @@
-H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\FindHouse.csprojAssemblyReference.cache
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\App.xaml.g.cs
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\BusquedaPage.xaml.g.cs
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
@@ -13,5 +12,6 @@ H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstanda
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\bin\Debug\netstandard2.0\FindHouse.deps.json
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\bin\Debug\netstandard2.0\FindHouse.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\bin\Debug\netstandard2.0\FindHouse.pdb
-H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\XamlC.stamp
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\UsersDetailPage.xaml.g.cs
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\XamlC.stamp
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse\obj\Debug\netstandard2.0\FindHouse.csprojAssemblyReference.cache
