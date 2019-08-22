@@ -118,6 +118,10 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
             "Validation": {
               "target": "Package",
               "version": "[2.4.22, )"

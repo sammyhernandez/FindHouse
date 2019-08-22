@@ -63,3 +63,10 @@ H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimul
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\Microsoft.Azure.Mobile.Client.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\PCLCrypto.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\PInvoke.BCrypt.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\PInvoke.Kernel32.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\PInvoke.NCrypt.dll
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.iOS\bin\iPhoneSimulator\Debug\PInvoke.Windows.Core.dll

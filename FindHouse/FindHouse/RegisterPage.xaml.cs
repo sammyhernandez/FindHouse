@@ -27,15 +27,17 @@ namespace FindHouse
 
             var errors = user.ValidateUser();
             var errorsPass = user.ValidatePassword(PasswordConfirm.Text);
+           
+            
 
             if (errors.Any()) await DisplayAlert("Error", String.Join(", ", errors), "Ok");
             else if (errorsPass.Any()) await DisplayAlert("Error", String.Join(", ", errorsPass), "Ok");
-
+            
             else
-            {
-                  await App.mobileServer.GetTable<Users>().InsertAsync(user);
-                  await DisplayAlert("Alert","Usuario Registrado Correctamente.","Ok");
-                  await Navigation.PushAsync(new MainPage());
+            {          
+                await App.mobileServer.GetTable<Users>().InsertAsync(user);
+                await DisplayAlert("Alert", "Usuario Registrado Correctamente.", "Ok");
+                await Navigation.PushAsync(new MainPage());
             }
         }
     }

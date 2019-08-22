@@ -1,5 +1,6 @@
 ﻿using SQLite;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace FindHouse.Model
 {
@@ -19,9 +20,9 @@ namespace FindHouse.Model
         {
             var errors = new List<string>();
 
-            if (string.IsNullOrWhiteSpace(FirstName)) errors.Add("FirstName is required");
-            if (string.IsNullOrWhiteSpace(LastName)) errors.Add("LastName is required");
-            if (string.IsNullOrWhiteSpace(Email)) errors.Add("Email is required");
+            if (string.IsNullOrWhiteSpace(FirstName)) errors.Add("Nombre Requerido");
+            if (string.IsNullOrWhiteSpace(LastName)) errors.Add("Apellido Requerido");
+            if (string.IsNullOrWhiteSpace(Email)) errors.Add("Correo Electrónico Requerido");
 
             return errors;
         }
@@ -29,12 +30,24 @@ namespace FindHouse.Model
         {
             var errors = new List<string>();
              
-            if (string.IsNullOrWhiteSpace(Password)) errors.Add("Password is required");
-            if (string.IsNullOrWhiteSpace(passConfirm)) errors.Add("PasswordConfirm is required");
+            if (string.IsNullOrWhiteSpace(Password)) errors.Add("Contraseña Requerida");
+            if (string.IsNullOrWhiteSpace(passConfirm)) errors.Add("Confirmacion de contraseña Requerida");
             if (!string.IsNullOrWhiteSpace(Password) && !string.IsNullOrWhiteSpace(passConfirm) 
-                && passConfirm != Password) errors.Add("Password y PasswordConfirm deben se iguale");
+                && passConfirm != Password) errors.Add("Contraseña y Confirmacion de contraseña deben se iguales");
 
             return errors;
+        }
+
+        public List<string> ValidateEmail(string Email)
+        {
+
+            
+            var correoFailed = new List<string>();
+            var email = App.mobileServer.GetTable<Users>();
+
+            if (email.Equals(Email)) correoFailed.Add("Este correo ya esta registrado.");
+
+            return correoFailed;
         }
 
     }

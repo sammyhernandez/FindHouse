@@ -522,7 +522,6 @@ H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\9
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\assets\System.Threading.dll
-H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\bin\Debug\FindHouse.dll.mdb
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\res\drawable\emailicon.png
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\res\drawable\mainicon.png
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\res\drawable\buildingicon.png
@@ -593,3 +592,4 @@ H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\9
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\src\md5b35075ec980064f2973fda331128de90\WebAuthenticatorActivity_State.java
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\src\md5b35075ec980064f2973fda331128de90\WebAuthenticatorNativeBrowserActivity.java
 H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\obj\Debug\90\android\src\md5b35075ec980064f2973fda331128de90\WebAuthenticatorNativeBrowserActivity_State.java
+H:\Proyectos Xamarin\FindHouse\FindHouse\FindHouse\FindHouse.Android\bin\Debug\FindHouse.dll.mdb

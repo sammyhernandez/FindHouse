@@ -8,7 +8,7 @@ namespace FindHouse
     public partial class App : Application
     {
         public static string DatabaseLocation = string.Empty;
-        public static MobileServiceClient mobileServer = new MobileServiceClient("https://apartamento.azurewebsites.net");
+        public static MobileServiceClient mobileServer = new MobileServiceClient("https://kasapt.azurewebsites.net");
 
         public App()
         {
