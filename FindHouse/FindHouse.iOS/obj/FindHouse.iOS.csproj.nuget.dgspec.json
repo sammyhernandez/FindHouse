@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse.iOS\\FindHouse.iOS.csproj": {}
+    "C:\\Users\\Sammy-laptop\\Documents\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse.iOS\\FindHouse.iOS.csproj": {}
   },
   "projects": {
-    "H:\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse.iOS\\FindHouse.iOS.csproj": {
+    "C:\\Users\\Sammy-laptop\\Documents\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse.iOS\\FindHouse.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse.iOS\\FindHouse.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Sammy-laptop\\Documents\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse.iOS\\FindHouse.iOS.csproj",
         "projectName": "FindHouse.iOS",
-        "projectPath": "H:\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse.iOS\\FindHouse.iOS.csproj",
-        "packagesPath": "C:\\Users\\Sammy\\.nuget\\packages\\",
-        "outputPath": "H:\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse.iOS\\obj\\",
+        "projectPath": "C:\\Users\\Sammy-laptop\\Documents\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse.iOS\\FindHouse.iOS.csproj",
+        "packagesPath": "C:\\Users\\Sammy-laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sammy-laptop\\Documents\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sammy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sammy-laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "H:\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse\\FindHouse.csproj": {
-                "projectPath": "H:\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse\\FindHouse.csproj"
+              "C:\\Users\\Sammy-laptop\\Documents\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse.csproj": {
+                "projectPath": "C:\\Users\\Sammy-laptop\\Documents\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse.csproj"
               }
             }
           }
@@ -48,7 +48,7 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.1.0, )"
+              "version": "[1.3.0, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
@@ -69,21 +69,21 @@
         }
       }
     },
-    "H:\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse\\FindHouse.csproj": {
+    "C:\\Users\\Sammy-laptop\\Documents\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse\\FindHouse.csproj",
+        "projectUniqueName": "C:\\Users\\Sammy-laptop\\Documents\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse.csproj",
         "projectName": "FindHouse",
-        "projectPath": "H:\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse\\FindHouse.csproj",
-        "packagesPath": "C:\\Users\\Sammy\\.nuget\\packages\\",
-        "outputPath": "H:\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse\\obj\\",
+        "projectPath": "C:\\Users\\Sammy-laptop\\Documents\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\FindHouse.csproj",
+        "packagesPath": "C:\\Users\\Sammy-laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sammy-laptop\\Documents\\Proyectos Xamarin\\FindHouse\\FindHouse\\FindHouse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sammy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sammy-laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -108,6 +108,14 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "FakeItEasy": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Google.AdWords": {
+              "target": "Package",
+              "version": "[24.8.0, )"
+            },
             "Microsoft.Azure.Mobile.Client": {
               "target": "Package",
               "version": "[4.1.0, )"
@@ -128,7 +136,7 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.1.0, )"
+              "version": "[1.3.0, )"
             },
             "Xamarin.Forms": {
               "target": "Package",

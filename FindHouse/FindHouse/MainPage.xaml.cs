@@ -46,9 +46,13 @@ namespace FindHouse
                 {
                     if (user.Password == Password.Text)
                     {
+                        //Entrar.IsEnabled = false;
+                        //RecuperarContrasenia.IsEnabled = false;
+                        //Registrarse.IsEnabled = false;
                         await Navigation.PushAsync(new HomePage());
                         Email.Text = null;
                         Password.Text = null;
+
                     }
                     else
                     {
@@ -62,17 +66,19 @@ namespace FindHouse
                 
                 
             }
-                
+
+
         }
 
         public void RecoverButton_Cliked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new PasswordRecovery());
         }
 
         public void RegisterButton_Cliked(object sender, EventArgs e)
         {
             Navigation.PushAsync(new RegisterPage());
+            
         }
     }
 }
